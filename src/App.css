@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Poppins:wght@200&display=swap');
+
+a:link, a:visited, a:hover, a:active{
+text-decoration: none;
+}
+
+.lead input {
+    height: 40px;
+    width: 300px;
+    background-color: #D9D9D9;
+    color: black;
+    border: none;
+    margin: 10px;
+    font-size: medium;
+    border-radius: 1em;
+    text-align: center;
+  }

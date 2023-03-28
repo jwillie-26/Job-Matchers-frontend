@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loading{
+    text-align: center;
+    font-size: 48px;
+    /* background-image: url("../src/components/Image/image1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+    
+}
