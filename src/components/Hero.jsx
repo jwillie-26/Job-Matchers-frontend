@@ -48,7 +48,7 @@ function Hero() {
           />
 
           <Carousel.Caption className="text-black">
-            <h3 className="uppercase font-bold">Karibu</h3>
+            <h3 className="uppercase font-bold">Welcome</h3>
             <p className="text-2xl">
               Empowering job seekers to connect, discover and explore
               opportunities to advance their careers and achieve success
@@ -65,10 +65,9 @@ function Hero() {
           />
 
           <Carousel.Caption className="text-white">
-            <h3 className="uppercase font-bold">KARIBU</h3>
+            <h3 className="uppercase font-bold">Welcome</h3>
             <p className="text-2xl">
-              Empowering job seekers to connect, discover and explore
-              opportunities to advance their careers and achieve success
+            chances to advance in their careers and achieve success
             </p>
           </Carousel.Caption>
         </Carousel.Item>
@@ -81,10 +80,9 @@ function Hero() {
           />
 
           <Carousel.Caption className="text-black">
-            <h3 className="uppercase font-bold">Karibu</h3>
+            <h3 className="uppercase font-bold">Welcome</h3>
             <p className="text-2xl">
-              Empowering job seekers to connect, discover and explore
-              opportunities to advance their careers and achieve success
+            Providing opportunities for job seekers to connect, discover, and explore
             </p>
           </Carousel.Caption>
         </Carousel.Item>

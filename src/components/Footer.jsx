@@ -81,9 +81,9 @@ function Footer() {
 
                 <li>
                   <a
-                    href="https://github.com/Salimmwatsefu/job-app-frontend"
+                    href="https://github.com/jwillie-26/Job-Matchers-frontend"
                     rel="noreferrer"
-                    target="https://github.com/Salimmwatsefu/job-app-frontend"
+                    target="https://github.com/jwillie-26/Job-Matchers-frontend"
                     class="text-teal-700 transition hover:text-teal-700/75"
                   >
                     <span class="sr-only">GitHub</span>
@@ -358,7 +358,7 @@ function Footer() {
               </p>
 
               <p class="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0">
-                &copy; 2023 Career Connect
+                &copy; 2023 Job Matchers
               </p>
             </div>
           </div>
